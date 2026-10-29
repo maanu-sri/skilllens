@@ -1,0 +1,19 @@
+ASHA KUMAR (synthetic sample resume)
+asha.sample@example.com | Coimbatore
+
+SUMMARY
+Third-year B.Tech AI & Data Science student interested in analytics.
+
+SKILLS
+Python, Pandas, NumPy, Excel, Git, MySQL
+
+PROJECTS
+Sales Insights Dashboard - Cleaned a retail CSV with Pandas and built charts in Excel to present monthly trends to a mock client.
+Student Marks Predictor - Trained a linear regression model with scikit-learn and evaluated it with train/test split.
+
+EDUCATION
+B.Tech Artificial Intelligence and Data Science, 2028
+Relevant coursework: Probability and Statistics, Database Management Systems, Data Structures
+
+CERTIFICATIONS
+Python for Everybody (online course)

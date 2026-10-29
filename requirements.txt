@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+transformers
+sentence-transformers
+huggingface_hub
+spacy
+lime
+rapidfuzz
+pdfplumber
+python-docx
+openai
+python-dotenv
+streamlit>=1.50
+pandas
+numpy

@@ -1,0 +1,20 @@
+Data Analyst Intern
+
+About the role:
+You will work with our product and operations teams to turn raw data into decisions. You will present findings to non-technical stakeholders and meet weekly deadlines across multiple projects.
+
+Responsibilities:
+- Write SQL queries to extract and clean data from our PostgreSQL database.
+- Build dashboards in Power BI and share insights with business teams.
+- Automate reports using Python and Pandas.
+- Work closely with engineers to debug data quality issues.
+
+Requirements:
+- Strong knowledge of SQL and Excel.
+- Experience with Python (Pandas, NumPy) for data analysis.
+- Good communication skills and the ability to work in a team.
+- Basic understanding of statistics and hypothesis testing.
+
+Nice to have:
+- Exposure to Tableau or machine learning with scikit-learn.
+- Familiarity with Git and version control.

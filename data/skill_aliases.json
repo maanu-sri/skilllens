@@ -1,0 +1,809 @@
+{
+ "Python": {
+  "category": "hard",
+  "aliases": [
+   "python3",
+   "python programming"
+  ]
+ },
+ "Java": {
+  "category": "hard",
+  "aliases": [
+   "java programming",
+   "core java"
+  ]
+ },
+ "JavaScript": {
+  "category": "hard",
+  "aliases": [
+   "js",
+   "ecmascript",
+   "java script"
+  ]
+ },
+ "TypeScript": {
+  "category": "hard",
+  "aliases": [
+   "ts"
+  ]
+ },
+ "C++": {
+  "category": "hard",
+  "aliases": [
+   "cpp",
+   "c plus plus"
+  ]
+ },
+ "C#": {
+  "category": "hard",
+  "aliases": [
+   "c sharp",
+   "csharp"
+  ]
+ },
+ "C": {
+  "category": "hard",
+  "aliases": [
+   "c programming"
+  ]
+ },
+ "Golang": {
+  "category": "hard",
+  "aliases": [
+   "go lang",
+   "go programming"
+  ]
+ },
+ "Rust": {
+  "category": "hard",
+  "aliases": []
+ },
+ "R": {
+  "category": "hard",
+  "aliases": [
+   "r programming",
+   "r language"
+  ]
+ },
+ "Scala": {
+  "category": "hard",
+  "aliases": []
+ },
+ "MATLAB": {
+  "category": "hard",
+  "aliases": []
+ },
+ "SQL": {
+  "category": "hard",
+  "aliases": [
+   "structured query language",
+   "sql queries",
+   "sql programming",
+   "tsql",
+   "t sql",
+   "pl sql"
+  ]
+ },
+ "MySQL": {
+  "category": "hard",
+  "aliases": [
+   "my sql"
+  ]
+ },
+ "PostgreSQL": {
+  "category": "hard",
+  "aliases": [
+   "postgres",
+   "postgre sql",
+   "psql"
+  ]
+ },
+ "SQL Server": {
+  "category": "hard",
+  "aliases": [
+   "ms sql",
+   "mssql",
+   "microsoft sql server",
+   "ms sql server"
+  ]
+ },
+ "Oracle Database": {
+  "category": "hard",
+  "aliases": [
+   "oracle db",
+   "oracle sql",
+   "oracle"
+  ]
+ },
+ "MongoDB": {
+  "category": "hard",
+  "aliases": [
+   "mongo",
+   "mongo db"
+  ]
+ },
+ "NoSQL": {
+  "category": "hard",
+  "aliases": [
+   "nosql databases",
+   "no sql"
+  ]
+ },
+ "Redis": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Excel": {
+  "category": "hard",
+  "aliases": [
+   "ms excel",
+   "microsoft excel",
+   "advanced excel",
+   "spreadsheets"
+  ]
+ },
+ "Power BI": {
+  "category": "hard",
+  "aliases": [
+   "powerbi",
+   "microsoft power bi"
+  ]
+ },
+ "Tableau": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Pandas": {
+  "category": "hard",
+  "aliases": []
+ },
+ "NumPy": {
+  "category": "hard",
+  "aliases": []
+ },
+ "scikit-learn": {
+  "category": "hard",
+  "aliases": [
+   "sklearn",
+   "scikit learn"
+  ]
+ },
+ "TensorFlow": {
+  "category": "hard",
+  "aliases": [
+   "tensor flow"
+  ]
+ },
+ "PyTorch": {
+  "category": "hard",
+  "aliases": [
+   "torch",
+   "py torch"
+  ]
+ },
+ "Keras": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Machine Learning": {
+  "category": "hard",
+  "aliases": [
+   "ml",
+   "machine learning algorithms",
+   "machine learning models"
+  ]
+ },
+ "Deep Learning": {
+  "category": "hard",
+  "aliases": [
+   "neural networks",
+   "deep neural networks"
+  ]
+ },
+ "Natural Language Processing": {
+  "category": "hard",
+  "aliases": [
+   "nlp"
+  ]
+ },
+ "Computer Vision": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Generative AI": {
+  "category": "hard",
+  "aliases": [
+   "genai",
+   "gen ai",
+   "generative artificial intelligence"
+  ]
+ },
+ "Large Language Models": {
+  "category": "hard",
+  "aliases": [
+   "llm",
+   "llms",
+   "large language model"
+  ]
+ },
+ "LangChain": {
+  "category": "hard",
+  "aliases": [
+   "lang chain"
+  ]
+ },
+ "Prompt Engineering": {
+  "category": "hard",
+  "aliases": [
+   "prompt design"
+  ]
+ },
+ "Hugging Face": {
+  "category": "hard",
+  "aliases": [
+   "huggingface",
+   "hugging face transformers"
+  ]
+ },
+ "Retrieval-Augmented Generation": {
+  "category": "hard",
+  "aliases": [
+   "rag",
+   "retrieval augmented generation"
+  ]
+ },
+ "MLOps": {
+  "category": "hard",
+  "aliases": [
+   "ml ops",
+   "machine learning operations"
+  ]
+ },
+ "Statistics": {
+  "category": "hard",
+  "aliases": [
+   "statistical analysis",
+   "statistical modeling",
+   "statistical modelling",
+   "applied statistics"
+  ]
+ },
+ "Data Analysis": {
+  "category": "hard",
+  "aliases": [
+   "data analytics",
+   "analytics",
+   "analysing data",
+   "analyzing data"
+  ]
+ },
+ "Data Visualization": {
+  "category": "hard",
+  "aliases": [
+   "data visualisation",
+   "data viz",
+   "visualization",
+   "visualisation",
+   "dashboards",
+   "dashboarding"
+  ]
+ },
+ "Data Cleaning": {
+  "category": "hard",
+  "aliases": [
+   "data wrangling",
+   "data preprocessing",
+   "data preparation",
+   "data cleansing",
+   "data munging"
+  ]
+ },
+ "Feature Engineering": {
+  "category": "hard",
+  "aliases": []
+ },
+ "A/B Testing": {
+  "category": "hard",
+  "aliases": [
+   "ab testing",
+   "a b testing",
+   "split testing"
+  ]
+ },
+ "Time Series": {
+  "category": "hard",
+  "aliases": [
+   "time series analysis",
+   "time series forecasting"
+  ]
+ },
+ "ETL": {
+  "category": "hard",
+  "aliases": [
+   "etl pipelines",
+   "data pipelines",
+   "elt",
+   "data pipeline"
+  ]
+ },
+ "Data Warehousing": {
+  "category": "hard",
+  "aliases": [
+   "data warehouse",
+   "dwh",
+   "data modeling",
+   "data modelling"
+  ]
+ },
+ "Apache Spark": {
+  "category": "hard",
+  "aliases": [
+   "spark",
+   "pyspark",
+   "py spark"
+  ]
+ },
+ "Hadoop": {
+  "category": "hard",
+  "aliases": [
+   "apache hadoop"
+  ]
+ },
+ "Apache Kafka": {
+  "category": "hard",
+  "aliases": [
+   "kafka"
+  ]
+ },
+ "Apache Airflow": {
+  "category": "hard",
+  "aliases": [
+   "airflow"
+  ]
+ },
+ "AWS": {
+  "category": "hard",
+  "aliases": [
+   "amazon web services",
+   "aws cloud"
+  ]
+ },
+ "Azure": {
+  "category": "hard",
+  "aliases": [
+   "microsoft azure",
+   "azure cloud"
+  ]
+ },
+ "Google Cloud Platform": {
+  "category": "hard",
+  "aliases": [
+   "gcp",
+   "google cloud"
+  ]
+ },
+ "Cloud Computing": {
+  "category": "hard",
+  "aliases": [
+   "cloud platforms",
+   "cloud technologies",
+   "cloud services"
+  ]
+ },
+ "Docker": {
+  "category": "hard",
+  "aliases": [
+   "containerization",
+   "containers",
+   "docker containers"
+  ]
+ },
+ "Kubernetes": {
+  "category": "hard",
+  "aliases": [
+   "k8s"
+  ]
+ },
+ "CI/CD": {
+  "category": "hard",
+  "aliases": [
+   "ci cd",
+   "continuous integration",
+   "continuous delivery",
+   "continuous deployment",
+   "cicd",
+   "ci/cd pipelines"
+  ]
+ },
+ "Git": {
+  "category": "hard",
+  "aliases": [
+   "git version control",
+   "version control",
+   "github",
+   "gitlab",
+   "source control",
+   "git/github"
+  ]
+ },
+ "Linux": {
+  "category": "hard",
+  "aliases": [
+   "unix",
+   "linux/unix",
+   "linux command line"
+  ]
+ },
+ "Bash": {
+  "category": "hard",
+  "aliases": [
+   "shell scripting",
+   "bash scripting"
+  ]
+ },
+ "REST APIs": {
+  "category": "hard",
+  "aliases": [
+   "rest api",
+   "restful apis",
+   "restful api",
+   "rest",
+   "api development",
+   "apis"
+  ]
+ },
+ "GraphQL": {
+  "category": "hard",
+  "aliases": []
+ },
+ "FastAPI": {
+  "category": "hard",
+  "aliases": [
+   "fast api"
+  ]
+ },
+ "Flask": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Django": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Node.js": {
+  "category": "hard",
+  "aliases": [
+   "nodejs",
+   "node js"
+  ]
+ },
+ "React": {
+  "category": "hard",
+  "aliases": [
+   "reactjs",
+   "react js"
+  ]
+ },
+ "Angular": {
+  "category": "hard",
+  "aliases": [
+   "angularjs"
+  ]
+ },
+ "HTML/CSS": {
+  "category": "hard",
+  "aliases": [
+   "html",
+   "css",
+   "html5",
+   "css3",
+   "html and css"
+  ]
+ },
+ "Spring Boot": {
+  "category": "hard",
+  "aliases": [
+   "springboot"
+  ]
+ },
+ "Microservices": {
+  "category": "hard",
+  "aliases": [
+   "microservice architecture",
+   "microservice"
+  ]
+ },
+ "Streamlit": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Unit Testing": {
+  "category": "hard",
+  "aliases": [
+   "unit tests",
+   "pytest",
+   "junit",
+   "test automation",
+   "automated testing"
+  ]
+ },
+ "Selenium": {
+  "category": "hard",
+  "aliases": []
+ },
+ "DevOps": {
+  "category": "hard",
+  "aliases": [
+   "dev ops"
+  ]
+ },
+ "Terraform": {
+  "category": "hard",
+  "aliases": [
+   "infrastructure as code",
+   "iac"
+  ]
+ },
+ "Agile": {
+  "category": "hard",
+  "aliases": [
+   "agile methodology",
+   "agile methodologies",
+   "agile development"
+  ]
+ },
+ "Scrum": {
+  "category": "hard",
+  "aliases": []
+ },
+ "JIRA": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Cybersecurity": {
+  "category": "hard",
+  "aliases": [
+   "cyber security",
+   "information security",
+   "infosec",
+   "network security"
+  ]
+ },
+ "Computer Networking": {
+  "category": "hard",
+  "aliases": [
+   "networking",
+   "tcp/ip"
+  ]
+ },
+ "Object-Oriented Programming": {
+  "category": "hard",
+  "aliases": [
+   "oop",
+   "oops",
+   "object oriented programming",
+   "object oriented design"
+  ]
+ },
+ "Data Structures and Algorithms": {
+  "category": "hard",
+  "aliases": [
+   "dsa",
+   "data structures",
+   "algorithms"
+  ]
+ },
+ "System Design": {
+  "category": "hard",
+  "aliases": [
+   "software architecture",
+   "architecture design"
+  ]
+ },
+ "Android Development": {
+  "category": "hard",
+  "aliases": [
+   "android",
+   "android studio"
+  ]
+ },
+ "Flutter": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Figma": {
+  "category": "hard",
+  "aliases": []
+ },
+ "Business Intelligence": {
+  "category": "hard",
+  "aliases": [
+   "bi tools"
+  ]
+ },
+ "Embedded Systems": {
+  "category": "hard",
+  "aliases": [
+   "embedded",
+   "firmware"
+  ]
+ },
+ "IoT": {
+  "category": "hard",
+  "aliases": [
+   "internet of things"
+  ]
+ },
+ "Web Scraping": {
+  "category": "hard",
+  "aliases": [
+   "scraping",
+   "web crawling",
+   "beautifulsoup",
+   "scrapy"
+  ]
+ },
+ "OpenAI API": {
+  "category": "hard",
+  "aliases": [
+   "openai",
+   "gpt api",
+   "chatgpt api"
+  ]
+ },
+ "Vector Databases": {
+  "category": "hard",
+  "aliases": [
+   "vector database",
+   "vector db",
+   "faiss",
+   "pinecone",
+   "chroma"
+  ]
+ },
+ "Communication": {
+  "category": "soft",
+  "aliases": [
+   "communication skills",
+   "verbal communication",
+   "written communication",
+   "oral communication",
+   "verbal and written communication",
+   "interpersonal communication",
+   "effective communication"
+  ]
+ },
+ "Teamwork": {
+  "category": "soft",
+  "aliases": [
+   "team work",
+   "team player",
+   "collaboration",
+   "collaborative",
+   "work in a team",
+   "working in teams",
+   "team collaboration",
+   "cross functional collaboration"
+  ]
+ },
+ "Problem Solving": {
+  "category": "soft",
+  "aliases": [
+   "problem solving skills",
+   "solving problems",
+   "troubleshooting",
+   "analytical problem solving",
+   "complex problem solving"
+  ]
+ },
+ "Critical Thinking": {
+  "category": "soft",
+  "aliases": []
+ },
+ "Analytical Thinking": {
+  "category": "soft",
+  "aliases": [
+   "analytical skills",
+   "analytical mindset",
+   "analytical ability"
+  ]
+ },
+ "Leadership": {
+  "category": "soft",
+  "aliases": [
+   "team leadership",
+   "leading teams",
+   "people management"
+  ]
+ },
+ "Adaptability": {
+  "category": "soft",
+  "aliases": [
+   "flexibility",
+   "adaptable",
+   "ability to adapt",
+   "flexible"
+  ]
+ },
+ "Time Management": {
+  "category": "soft",
+  "aliases": [
+   "prioritization",
+   "prioritisation",
+   "managing deadlines",
+   "organizational skills",
+   "organisational skills",
+   "multitasking"
+  ]
+ },
+ "Attention to Detail": {
+  "category": "soft",
+  "aliases": [
+   "detail oriented",
+   "attention to details",
+   "meticulous"
+  ]
+ },
+ "Creativity": {
+  "category": "soft",
+  "aliases": [
+   "creative thinking"
+  ]
+ },
+ "Presentation Skills": {
+  "category": "soft",
+  "aliases": [
+   "presentation",
+   "presenting",
+   "public speaking",
+   "presentations"
+  ]
+ },
+ "Stakeholder Management": {
+  "category": "soft",
+  "aliases": [
+   "stakeholder communication",
+   "stakeholder engagement",
+   "client management",
+   "client facing",
+   "customer facing"
+  ]
+ },
+ "Ownership": {
+  "category": "soft",
+  "aliases": [
+   "self motivated",
+   "self starter",
+   "initiative",
+   "proactive",
+   "take ownership",
+   "accountability"
+  ]
+ },
+ "Continuous Learning": {
+  "category": "soft",
+  "aliases": [
+   "eagerness to learn",
+   "willingness to learn",
+   "quick learner",
+   "learning agility",
+   "fast learner",
+   "lifelong learning",
+   "curiosity"
+  ]
+ },
+ "Decision Making": {
+  "category": "soft",
+  "aliases": [
+   "sound judgment"
+  ]
+ },
+ "Project Management": {
+  "category": "soft",
+  "aliases": [
+   "project planning",
+   "program management",
+   "project coordination"
+  ]
+ }
+}

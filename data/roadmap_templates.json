@@ -1,0 +1,328 @@
+{
+ "Python": {
+  "objective": "Write clean Python scripts that read, transform and summarise data",
+  "steps": [
+   "Learn syntax, lists/dicts and functions",
+   "Practise file I/O and error handling",
+   "Solve 20 small problems"
+  ],
+  "practice": "Build a command-line tool that cleans a CSV and prints a summary",
+  "demonstrate": "Push the repo to GitHub and add a resume bullet saying what the tool does",
+  "prerequisites": [],
+  "effort": "~2 weeks"
+ },
+ "SQL": {
+  "objective": "Query relational data with joins and aggregation",
+  "steps": [
+   "SELECT, WHERE and ORDER BY",
+   "JOINs and GROUP BY / HAVING",
+   "Subqueries and window functions"
+  ],
+  "practice": "Analyse a public dataset in SQLite or PostgreSQL and write 15 queries",
+  "demonstrate": "Publish the queries with findings in a GitHub README",
+  "prerequisites": [],
+  "effort": "~1-2 weeks"
+ },
+ "Excel": {
+  "objective": "Clean, summarise and chart data in Excel",
+  "steps": [
+   "Formulas and lookups (XLOOKUP/VLOOKUP)",
+   "Pivot tables",
+   "Charts and a dashboard"
+  ],
+  "practice": "Build a one-page sales dashboard from raw data",
+  "demonstrate": "Describe the workbook in one resume bullet",
+  "prerequisites": [],
+  "effort": "~1 week"
+ },
+ "Power BI": {
+  "objective": "Build an interactive dashboard",
+  "steps": [
+   "Load and clean data in Power Query",
+   "Write basic DAX measures",
+   "Design a one-page dashboard"
+  ],
+  "practice": "Dashboard on a public dataset with three slicers",
+  "demonstrate": "Add screenshots and the report link to your portfolio",
+  "prerequisites": [
+   "Excel",
+   "SQL"
+  ],
+  "effort": "~1-2 weeks"
+ },
+ "Tableau": {
+  "objective": "Build an interactive dashboard",
+  "steps": [
+   "Connect and clean a data source",
+   "Build calculated fields",
+   "Assemble a dashboard with filters"
+  ],
+  "practice": "Dashboard on a public dataset",
+  "demonstrate": "Publish to Tableau Public and link it",
+  "prerequisites": [
+   "Excel"
+  ],
+  "effort": "~1-2 weeks"
+ },
+ "Pandas": {
+  "objective": "Wrangle tabular data in Python",
+  "steps": [
+   "Series and DataFrame basics",
+   "Filtering, groupby and merge",
+   "Handle missing values"
+  ],
+  "practice": "Clean and analyse a messy public CSV in a notebook",
+  "demonstrate": "Notebook on GitHub with written findings",
+  "prerequisites": [
+   "Python"
+  ],
+  "effort": "~1 week"
+ },
+ "Machine Learning": {
+  "objective": "Train and evaluate basic supervised models",
+  "steps": [
+   "Train/test split and metrics",
+   "Fit regression, trees and random forests",
+   "Cross-validate and compare"
+  ],
+  "practice": "End-to-end model on a public dataset with an honest evaluation",
+  "demonstrate": "Notebook plus a short write-up of metrics",
+  "prerequisites": [
+   "Python",
+   "Pandas",
+   "Statistics"
+  ],
+  "effort": "~3-4 weeks"
+ },
+ "Deep Learning": {
+  "objective": "Train a small neural network",
+  "steps": [
+   "Layers, loss and backpropagation",
+   "Train an MLP or CNN in PyTorch",
+   "Diagnose overfitting"
+  ],
+  "practice": "Image or text classifier on a small dataset",
+  "demonstrate": "Repo with training curves",
+  "prerequisites": [
+   "Machine Learning",
+   "Python"
+  ],
+  "effort": "~3-4 weeks"
+ },
+ "Natural Language Processing": {
+  "objective": "Build a text-processing pipeline",
+  "steps": [
+   "Tokenisation and embeddings",
+   "Fine-tune a small transformer",
+   "Evaluate with precision/recall/F1"
+  ],
+  "practice": "Fine-tune a classifier on a public text dataset",
+  "demonstrate": "Repo with a results table",
+  "prerequisites": [
+   "Python",
+   "Machine Learning"
+  ],
+  "effort": "~3 weeks"
+ },
+ "Large Language Models": {
+  "objective": "Use LLM APIs reliably",
+  "steps": [
+   "Prompting and structured JSON output",
+   "Add retrieval (RAG) over your own documents",
+   "Evaluate and handle failures"
+  ],
+  "practice": "Small RAG app over a set of PDFs",
+  "demonstrate": "Deployed demo link in your resume",
+  "prerequisites": [
+   "Python",
+   "REST APIs"
+  ],
+  "effort": "~2 weeks"
+ },
+ "Statistics": {
+  "objective": "Apply descriptive and inferential statistics",
+  "steps": [
+   "Distributions, mean and variance",
+   "Hypothesis tests and p-values",
+   "Confidence intervals"
+  ],
+  "practice": "Analyse a dataset and run two hypothesis tests",
+  "demonstrate": "Notebook with interpretation",
+  "prerequisites": [],
+  "effort": "~2 weeks"
+ },
+ "Data Visualization": {
+  "objective": "Choose and build clear charts",
+  "steps": [
+   "Match chart types to questions",
+   "Use Matplotlib/Seaborn or a BI tool",
+   "Tell a story in three charts"
+  ],
+  "practice": "Visual story from a public dataset",
+  "demonstrate": "Portfolio page with three annotated charts",
+  "prerequisites": [],
+  "effort": "~1 week"
+ },
+ "Git": {
+  "objective": "Use version control daily",
+  "steps": [
+   "Init, add, commit and branch",
+   "Merge and resolve conflicts",
+   "Push, pull and open a pull request"
+  ],
+  "practice": "Move all your projects to GitHub with meaningful commits",
+  "demonstrate": "Public GitHub profile link",
+  "prerequisites": [],
+  "effort": "~3 days"
+ },
+ "Docker": {
+  "objective": "Containerise an application",
+  "steps": [
+   "Images versus containers",
+   "Write a Dockerfile",
+   "Run services with docker compose"
+  ],
+  "practice": "Dockerise one of your apps",
+  "demonstrate": "Dockerfile committed in the repo",
+  "prerequisites": [
+   "Linux",
+   "Git"
+  ],
+  "effort": "~1 week"
+ },
+ "AWS": {
+  "objective": "Deploy a small app on a cloud platform",
+  "steps": [
+   "Core services: EC2, S3 and IAM",
+   "Deploy a small app",
+   "Basic cost and security hygiene"
+  ],
+  "practice": "Host a static site plus a small API",
+  "demonstrate": "Architecture note in the README",
+  "prerequisites": [
+   "Linux"
+  ],
+  "effort": "~2 weeks"
+ },
+ "Linux": {
+  "objective": "Work comfortably in a terminal",
+  "steps": [
+   "Navigation and file commands",
+   "Permissions, processes and pipes",
+   "Write a small shell script"
+  ],
+  "practice": "Automate a daily task with a script",
+  "demonstrate": "Scripts committed to a repo",
+  "prerequisites": [],
+  "effort": "~1 week"
+ },
+ "REST APIs": {
+  "objective": "Build and consume REST APIs",
+  "steps": [
+   "HTTP methods and status codes",
+   "Build a CRUD API",
+   "Test with curl or Postman"
+  ],
+  "practice": "CRUD API with documentation",
+  "demonstrate": "Repo with API docs",
+  "prerequisites": [
+   "Python"
+  ],
+  "effort": "~1-2 weeks"
+ },
+ "FastAPI": {
+  "objective": "Serve data or a model over an API",
+  "steps": [
+   "Routes and Pydantic models",
+   "Validation and error handling",
+   "Run with Uvicorn"
+  ],
+  "practice": "Wrap one of your models in an endpoint",
+  "demonstrate": "Repo plus live link",
+  "prerequisites": [
+   "Python",
+   "REST APIs"
+  ],
+  "effort": "~1 week"
+ },
+ "JavaScript": {
+  "objective": "Write modern JavaScript",
+  "steps": [
+   "Variables, functions and arrays",
+   "DOM and events",
+   "Async and fetch"
+  ],
+  "practice": "Interactive to-do or weather app",
+  "demonstrate": "Deployed link",
+  "prerequisites": [
+   "HTML/CSS"
+  ],
+  "effort": "~2 weeks"
+ },
+ "React": {
+  "objective": "Build a small component-based UI",
+  "steps": [
+   "JSX and components",
+   "State and props",
+   "Fetch from an API"
+  ],
+  "practice": "Small dashboard app",
+  "demonstrate": "Deployed link",
+  "prerequisites": [
+   "JavaScript",
+   "HTML/CSS"
+  ],
+  "effort": "~3 weeks"
+ },
+ "Apache Spark": {
+  "objective": "Process data at scale with PySpark",
+  "steps": [
+   "DataFrames versus RDDs",
+   "Transformations and actions",
+   "Run on Colab or a local cluster"
+  ],
+  "practice": "Aggregate a dataset of 1M+ rows",
+  "demonstrate": "Notebook with timings",
+  "prerequisites": [
+   "Python",
+   "SQL"
+  ],
+  "effort": "~2 weeks"
+ },
+ "Communication": {
+  "objective": "Explain technical work clearly",
+  "steps": [
+   "Write a one-page summary of a project",
+   "Present it in 3 minutes to a non-technical listener",
+   "Collect feedback and revise"
+  ],
+  "practice": "Record a short walkthrough of your best project",
+  "demonstrate": "Link the demo or README on your resume",
+  "prerequisites": [],
+  "effort": "ongoing (start within 2 weeks)"
+ },
+ "Teamwork": {
+  "objective": "Show effective collaboration",
+  "steps": [
+   "Join or run a team project",
+   "Agree roles and a workflow (issues, pull requests)",
+   "Reflect on one conflict you resolved"
+  ],
+  "practice": "Contribute to a group or open-source project",
+  "demonstrate": "Prepare a STAR-format example for interviews",
+  "prerequisites": [],
+  "effort": "ongoing"
+ },
+ "Problem Solving": {
+  "objective": "Break problems down methodically",
+  "steps": [
+   "Restate the problem and list assumptions",
+   "Solve with a repeatable approach",
+   "Review and compare solutions"
+  ],
+  "practice": "Solve 20 graded problems and note your approach",
+  "demonstrate": "README of three solved problems with reasoning",
+  "prerequisites": [],
+  "effort": "ongoing"
+ }
+}
